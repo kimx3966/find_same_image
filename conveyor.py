@@ -44,7 +44,7 @@ class Conveyor(Frame):
     # 이미지 셔플 함수
     def random_shuffle(self):
         # 0~15 숫자 중 임의로 중복되지 않는 13개의 숫자 선택
-        pass
+        print('random')
 
     # TODO
     # 선택한 그림이 현재 위치의 그림과 일치하는 경우
